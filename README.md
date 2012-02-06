@@ -2,7 +2,7 @@
 
 This project has multiple implementations of the tax calculation challange task (invented by Ayende, see more: http://ayende.com/blog/108545/the-tax-calculation-challenge).
 
-## Task:
+## Task
 
 Create tax calculator where tax rules apply only to the part within current rate range.
 

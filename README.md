@@ -1,6 +1,6 @@
 # The Tax Calculation Challange
 
-This project has multiple implementations of the tax calculation challange task (invented by Ayende, see more: http://ayende.com/blog/108545/the-tax-calculation-challenge).
+This project has multiple implementations of the tax calculation challange task (proposed by Ayende, see more: http://ayende.com/blog/108545/the-tax-calculation-challenge).
 
 ## Task
 
